@@ -1,0 +1,11 @@
+test the git operation
+git clone
+git status
+git log
+git add
+git commit -m
+git pull
+git push
+git branch
+git rm
+git ...
